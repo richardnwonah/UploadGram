@@ -6,20 +6,20 @@ Front end cloud hosting platform
 
  ## Pictures
 ### Home Screen
-![Home Screen](frontendUi\FirstIndex.PNG)
-![Home Screen](frontendUi\SecondIndex.PNG)
-![Home Screen](frontendUi\ThirdIndex.PNG)
-![Home Screen](frontendUi\IndexFooter.PNG)
+![Home Screen](frontendUi/FirstIndex.PNG)
+![Home Screen](frontendUi/SecondIndex.PNG)
+![Home Screen](frontendUi/ThirdIndex.PNG)
+![Home Screen](frontendUi/IndexFooter.PNG)
 
 ### Feature Screen
-  ![Feature Screen](frontendUi\FirstFeature.PNG)
-  ![Feature Screen](frontendUi\SecondFeature.PNG)
+  ![Feature Screen](frontendUi/FirstFeature.PNG)
+  ![Feature Screen](frontendUi/SecondFeature.PNG)
   ### Doc Screen
-  ![Doc Screen](frontendUi\FirstDocs.PNG)
-  ![Doc Screen](frontendUi\SecondDocs.PNG)
+  ![Doc Screen](frontendUi/FirstDocs.PNG)
+  ![Doc Screen](frontendUi/SecondDocs.PNG)
 
   ### Responsive
-  ![Responsive Screen](frontendUi\responsive.PNG)
+  ![Responsive Screen](frontendUi/responsive.PNG)
 
   
 
